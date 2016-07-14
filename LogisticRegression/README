@@ -1,0 +1,2 @@
+Use logistic regression to classify images of handwritten digits. Given files contain data for binary images of handwritten digits (3 and 5). Each image is an 8x8 bitmap represented in the files
+by one line of text. 
