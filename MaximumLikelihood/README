@@ -1,4 +1,2 @@
-Given unigram and bigram counts for 500 frequently occurring tokens in English text. 
-These tokens include actual words as well as punctuation symbols and other textual markers. 
-In addition, an “unknown” token is used to represent all words that occur outside this basic vocabulary. 
-Finds the maximum likelihood of unigrams and bigrams of a sentence. 
+Estimate the probability P(B8 = 1|Z = 128) for a network with n= 10 bits using method of likelihood weighting
+
