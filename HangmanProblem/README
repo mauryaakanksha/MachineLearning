@@ -1,0 +1,1 @@
+Given a list of 5-letter words (including names and proper nouns) and their counts from a largecorpus of Wall Street Journal articles. Finds the best possible alphabet given the correctly and incorrectly guessed alphabets.
